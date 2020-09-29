@@ -1,1 +1,1 @@
-"# severity-of-aeroplane-accident-machine-learning" 
+This is my solution for a Hackerearth Hackathon where we have to find the severity of a aeroplane accident from different factors I took the Neural Network Approach and used simple ANN with 4 dense layers.
